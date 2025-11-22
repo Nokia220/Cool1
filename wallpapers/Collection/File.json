@@ -4,26 +4,9 @@
     {
       "id": "1",
       "name": "Romantic Evening",
-      "url": "https://images.pexels.com/photos/12345/original.jpg",
+      "url": "https://github.com/Nokia220/Cool1/blob/main/wallpapers/Islamic/Islamic.json",
       "coverPhotoUrl": "https://images.pexels.com/photos/12345/compressed.jpg?w=400",
-      "wallpapers": "https://github.com/Nokia220/Cool1/blob/main/wallpapers/Islamic/Islamic.json"
       "status": "Enable"
-    },
-    {
-      "id": "2",
-      "name": "Cyber Samurai",
-      "url": "https://images.pexels.com/photos/67890/original.jpg",
-      "coverPhotoUrl": "https://images.pexels.com/photos/67890/compressed.jpg?w=400",
-      "wallpapers": "https://github.com/Nokia220/Cool1/blob/main/wallpapers/Islamic/Islamic.json"
-      "status": "Enable"
-    },
-    {
-      "id": "3",
-      "name": "Minimalist Dark",
-      "url": "https://images.pexels.com/photos/54321/original.jpg",
-      "coverPhotoUrl": "https://images.pexels.com/photos/54321/compressed.jpg?w=400",
-      "wallpapers": "https://github.com/Nokia220/Cool1/blob/main/wallpapers/Islamic/Islamic.json"
-      "status": "Disable"
     }
     
   ]
